@@ -18,4 +18,4 @@ write.csv(i_students, "i_Students_Gendered_Mean")
 
 While I am familiar with the first half of the assignment concerning subsetting and appending new columns of data, I had not really ever exported a dataset so it was interesting and nice to see how simple it is. I was able to load the file into Excel with no problem.
 
-![Screenshot of data in Excel](https://gyazo.com/7c1212d758573f6e6bcff92f38a1c8f3)
+![Screenshot of data in Excel](https://i.gyazo.com/7c1212d758573f6e6bcff92f38a1c8f3.png)
